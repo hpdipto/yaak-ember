@@ -25,6 +25,10 @@
             }
         ]
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hpdipto/yaak-ember.git"
+    },
     "scripts": {
         "build": "yaak plugin build",
         "dev": "yaak plugin dev"
