@@ -3,7 +3,9 @@
     "displayName": "Ember Theme",
     "description": "Ember Theme for Yaak",
     "version": "0.0.1",
+    "main": "build/index.js",
     "license": "MIT",
+    "author": "hpdipto",
     "keywords": [
         "yaak-plugin",
         "theme"
@@ -13,8 +15,11 @@
         "themes": [
             {
                 "identifier": "ember-theme-dark",
-                "name": "Ember Dark",
-                "theme": "dark"
+                "name": "Ember Dark"
+            },
+            {
+                "identifier": "ember-theme-ligth",
+                "name": "Ember Light"
             }
         ]
     },
