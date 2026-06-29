@@ -10,3 +10,7 @@ Includes two variants:
 ## Credits
 
 Color palette and design by [Ember Theme](https://embertheme.com/). This plugin adapts the palette for Yaak.
+
+## License
+
+MIT
