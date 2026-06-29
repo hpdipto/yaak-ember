@@ -3,6 +3,7 @@
     "displayName": "Ember Theme",
     "description": "Ember Theme for Yaak",
     "version": "0.0.1",
+    "main": "build/index.js",
     "yaak": {
         "title": "Ember Theme"
     },
