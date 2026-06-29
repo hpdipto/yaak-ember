@@ -2,8 +2,10 @@
     "name": "@hpdipto/ember-theme",
     "displayName": "Ember Theme",
     "description": "Ember Theme for Yaak",
-    "private": true,
     "version": "0.0.1",
+    "yaak": {
+        "title": "Ember Theme"
+    },
     "scripts": {
         "build": "yaak plugin build",
         "dev": "yaak plugin dev"
